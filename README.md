@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Steps
 - Install all packages using `npm install`.
 - To run in development mode execute `npm start`
-- To build in production mode execuete `npm run build`
+- To build in production mode execute `npm run build`
 - Install https://www.npmjs.com/package/serve globally 
 	`npm install -g serve`
 - To test in production mode execute below
