@@ -1,6 +1,6 @@
 # Getting Started with graphql-editor-create-react-app-example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to create standalone reactjs app for https://github.com/graphql-editor/graphql-editor.
 
 ## Steps
 - Install all packages using `npm install`.
