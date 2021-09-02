@@ -10,4 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 	`npm install -g serve`
 - To test in production mode execute below
 	`serve -s build`
-	
+
+## Know Issues
+- Text editor is not dynamically getting resized based on content.
