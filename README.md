@@ -12,4 +12,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 	`serve -s build`
 
 ## Know Issues
-- Text editor is not dynamically getting resized based on content.
+- Text editor is not dynamically getting resized based on content https://github.com/graphql-editor/graphql-editor/issues/282.
+
